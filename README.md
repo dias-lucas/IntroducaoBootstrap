@@ -1,2 +1,2 @@
 # IntroducaoBootstrap
-Atividade da aula de programação Web com frameworks dia 04/03/2022
+Repositório utilizado para atividade de introdução ao Bootstrap da aula de programação Web com frameworks dia 04/03/2022
